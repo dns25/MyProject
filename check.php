@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-in master test
-=======
-in testbranch
->>>>>>> test
+in master test test
